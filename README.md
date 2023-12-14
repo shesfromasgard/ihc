@@ -1,1 +1,1 @@
-# ihc
+# Projeto Interação Humano-Computador
